@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Dog Days",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "publishedMin": 2024,
+    "durationMin": 120,
+    "type": "Drama",
+    "description": "Хөөрхөн байдал дэлхийг аварна. Санаандгүй байдлаар амьдрал нь хоорондоо холбоотой болсон хүмүүс ба өхөөрдөм нохойнуудын тухай гарах сэтгэл хөдлөм түүх юм."
+  },
+  {
+    "id": 2,
+    "title": "Small Foot",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "publishedMin": 2018,
+    "durationMin": 92,
+    "type": "Fantasy, Family",
+    "description": "Цаст уулын оройд олон жил амьдарсан алмасуудын дунд хүн хэмээх амьтны талаарх домог байдаг байж ээ. Миго тэрхүү хүн хэмээн амьтантай тааралдсанаар хөгжилтэй адал явдалтай учирна."
+  },
+  {
+    "id": 3,
+    "title": "Gothika",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "publishedMin": 2003,
+    "durationMin": 94,
+    "type": "Horror",
+    "description": "Миранда Грэй бол сэтгэцийн өвчтнүүдтэй ажилладаг сэтгэл судлаач. Нэгэн орой тэрээр гэртээ харьж яваад машины осолд ордог."
+  },
+  {
+    "id": 4,
+    "title": "My Super Hero",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "publishedMin": 2022,
+    "durationMin": 60,
+    "type": "Comedy",
+    "description": "Зочид буудлын хаалгач Жан Гуанжөн онгоцны үйлчлэгч Жөн Ёу-Эний хайрыг татахын тулд өөрийн ганц давуу талыг ашигласан нь “тэвчээр”. Тэрээр Ёу-Энийг өөрийн супер баатар хэмээн үзнэ."
+  },
+  {
+    "id": 5,
+    "title": "Chernobyl",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "publishedMin": 2019,
+    "durationMin": 60,
+    "type": "Drama",
+    "description": "1986 оны 4-р сард болсон Чернобыль атомын цахилгаан станцад болсон осол Зөвлөлт Холбоот Орос улсыг дэлхий дээрх хүний буруутай үйлдлээс улбаатай, хамгийн аймшигт сүйрэл авчирсан орнуудын нэг болгож орхино. "
+  },
+  {
+    "id": 6,
+    "title": "Demon Slayer",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "publishedMin": 2021,
+    "durationMin": 20,
+    "type": "Adventure, Animation",
+    "description": "Дархдын тосгонд болсон үйл явдлын дараа Танжиро найзуудтайгаа нийлэн Кибүцүжи Музантай хийх эцсийн тулаандаа орохоор Хашира нарын хүнд хэцүү бэлтгэлийг хийх болно."
+  },
+  {
+    "id": 7,
+    "title": "Post Truth",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "publishedMin": 2023,
+    "durationMin": 111,
+    "type": "Action",
+    "description": "Пин-ан бол оршуулгын үйлчилгээ үзүүлж, тайван амьдардаг нэгэн. Гэвч нэг л өдөр тэрээр дээрмийн бүлэглэлийнхэнтэй орооцолдсоноор түүний аюул дагуулсан, хөгжилтэй адал явдал эхэлнэ."
+  },
+  {
+    "id": 8,
+    "title": "Tiger's Trigger",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png",
+    "publishedMin": 2024,
+    "durationMin": 85,
+    "type": "Action",
+    "description": "Нэгэн бүсгүй өвчтэй ээжийгээ эмнэлэгт сахиж байхдаа үл мэдэгдэх буу олсноор томоохон аюулд өртөнө. Энэ үеэр түүнийг нэгэн нууцлаг тулаанч аварснаар амь өрссөн тулаанууд эхэлнэ."
+  }
+]

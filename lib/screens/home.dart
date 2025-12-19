@@ -11,7 +11,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  int currentIndex = 2;
+  int currentIndex = 0;
   List<Widget> totalPage = [
     Movies(),
     Wishlist(),
